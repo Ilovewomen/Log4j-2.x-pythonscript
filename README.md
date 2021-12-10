@@ -15,7 +15,7 @@
 python -u 漏洞地址
 
 
-E:\PyCharm 2020.1\new>python 2.py -u http://www.xxx.com/
+E:\PyCharm 2020.1\new>python Log4j.py.py -u http://www.xxx.com/
 +---------------------------------------------------------------+
 + [Log4j 2.x 漏洞检测工具]                                         +
 + [开发者：vlan911]                                               +
@@ -28,7 +28,7 @@ E:\PyCharm 2020.1\new>python 2.py -u http://www.xxx.com/
 [http://www.xxx.com/][===存在漏洞===]
 
 
-E:\PyCharm 2020.1\new>python 2.py -u http://xxx.com
+E:\PyCharm 2020.1\new>python Log4j.py.py -u http://xxx.com
 +---------------------------------------------------------------+
 + [Log4j 2.x 漏洞检测工具]                                      +
 + [开发者：vlan911]                                             +
